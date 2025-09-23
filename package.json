@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "number-to-chinese-words": "^1.0.20",
+    "readline-sync": "^1.4.10"
+  }
+}
