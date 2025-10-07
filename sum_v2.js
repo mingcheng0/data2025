@@ -9,6 +9,7 @@ function sum2(n){
                 sum -= i;
             else
             sum += i ;
+        //(i%2==0) ? sum-=i : sum+=i;
         }
         return sum;
     }
